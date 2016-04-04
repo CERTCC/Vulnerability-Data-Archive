@@ -1,0 +1,14 @@
+{
+  "Status": "Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "IBM Corporation", 
+  "DateResponded": "", 
+  "DateLastUpdated": "2000-09-06T13:40:00-04:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "JMPL-3WGRWB", 
+  "Addendum": "", 
+  "VendorInformation": "", 
+  "VendorStatement": "", 
+  "ID": "VU#11100", 
+  "Revision": "1"
+}

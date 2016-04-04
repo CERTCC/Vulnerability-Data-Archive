@@ -1,0 +1,14 @@
+{
+  "Status": "Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "Sun Microsystems, Inc.", 
+  "DateResponded": "", 
+  "DateLastUpdated": "2000-09-06T12:03:00-04:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "JMPL-3WGRPV", 
+  "Addendum": "", 
+  "VendorInformation": "", 
+  "VendorStatement": "", 
+  "ID": "VU#11100", 
+  "Revision": "1"
+}

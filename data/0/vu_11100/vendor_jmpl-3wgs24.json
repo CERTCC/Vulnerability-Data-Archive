@@ -1,0 +1,14 @@
+{
+  "Status": "Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "The SCO Group (SCO Unix)", 
+  "DateResponded": "", 
+  "DateLastUpdated": "2000-09-06T13:50:00-04:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "JMPL-3WGS24", 
+  "Addendum": "", 
+  "VendorInformation": "", 
+  "VendorStatement": "", 
+  "ID": "VU#11100", 
+  "Revision": "1"
+}

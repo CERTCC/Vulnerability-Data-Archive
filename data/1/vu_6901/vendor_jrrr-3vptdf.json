@@ -1,0 +1,14 @@
+{
+  "Status": "Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "Sun Microsystems, Inc.", 
+  "DateResponded": "", 
+  "DateLastUpdated": "2003-09-25T10:19:00-04:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "JRRR-3VPTDF", 
+  "Addendum": "Please see <http://au.sunsolve.sun.com/pub-cgi/retrieve.pl?type=0&doc=secbull%2F141&display=plain>.", 
+  "VendorInformation": "We are not aware of further vendor information regarding this vulnerability.", 
+  "VendorStatement": "No statement is currently available from the vendor regarding this vulnerability.", 
+  "ID": "VU#6901", 
+  "Revision": 2
+}

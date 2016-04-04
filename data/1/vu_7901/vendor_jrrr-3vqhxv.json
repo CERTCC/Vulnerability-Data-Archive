@@ -1,0 +1,14 @@
+{
+  "Status": "Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "Third Party", 
+  "DateResponded": "", 
+  "DateLastUpdated": "1998-06-23T09:35:00-04:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "JRRR-3VQHXV", 
+  "Addendum": "The CERT/CC has no additional comments at this time.", 
+  "VendorInformation": "We are not aware of further vendor information regarding this vulnerability.", 
+  "VendorStatement": "No statement is currently available from the vendor regarding this vulnerability.", 
+  "ID": "VU#7901", 
+  "Revision": "1"
+}

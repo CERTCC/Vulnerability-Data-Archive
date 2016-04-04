@@ -1,0 +1,14 @@
+{
+  "Status": "Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "SGI", 
+  "DateResponded": "", 
+  "DateLastUpdated": "1998-06-23T09:37:00-04:00", 
+  "DateNotified": "1996-04-09T00:00:00-04:00", 
+  "VendorRecordID": "JRRR-3VQHZ2", 
+  "Addendum": "The CERT/CC has no additional comments at this time.", 
+  "VendorInformation": "We are not aware of further vendor information regarding this vulnerability.", 
+  "VendorStatement": "No statement is currently available from the vendor regarding this vulnerability.", 
+  "ID": "VU#8001", 
+  "Revision": "1"
+}

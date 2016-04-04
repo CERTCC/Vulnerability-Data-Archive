@@ -1,0 +1,14 @@
+{
+  "Status": "Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "Red Hat, Inc.", 
+  "DateResponded": "", 
+  "DateLastUpdated": "2000-09-06T13:34:00-04:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "JMPL-3WGRZ7", 
+  "Addendum": "", 
+  "VendorInformation": "", 
+  "VendorStatement": "", 
+  "ID": "VU#11100", 
+  "Revision": "1"
+}

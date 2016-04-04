@@ -1,0 +1,14 @@
+{
+  "Status": "Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "Netscape Communications Corporation", 
+  "DateResponded": "", 
+  "DateLastUpdated": "1998-06-22T14:42:00-04:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "JRRR-3VPPX9", 
+  "Addendum": "The CERT/CC has no additional comments at this time.", 
+  "VendorInformation": "We are not aware of further vendor information regarding this vulnerability.", 
+  "VendorStatement": "No statement is currently available from the vendor regarding this vulnerability.", 
+  "ID": "VU#3501", 
+  "Revision": "1"
+}

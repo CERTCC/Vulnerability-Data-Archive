@@ -1,0 +1,14 @@
+{
+  "Status": "Not Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "NetBSD", 
+  "DateResponded": "", 
+  "DateLastUpdated": "1998-07-17T16:26:00-04:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "JMPL-3WGRXV", 
+  "Addendum": "", 
+  "VendorInformation": "", 
+  "VendorStatement": "", 
+  "ID": "VU#11100", 
+  "Revision": "1"
+}

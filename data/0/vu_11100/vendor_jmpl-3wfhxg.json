@@ -1,0 +1,14 @@
+{
+  "Status": "Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "University of Washington", 
+  "DateResponded": "", 
+  "DateLastUpdated": "2000-09-05T09:51:00-04:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "JMPL-3WFHXG", 
+  "Addendum": "The CERT/CC has no additional comments at this time.", 
+  "VendorInformation": "We are not aware of further vendor information regarding this vulnerability.", 
+  "VendorStatement": "No statement is currently available from the vendor regarding this vulnerability.", 
+  "ID": "VU#11100", 
+  "Revision": "1"
+}

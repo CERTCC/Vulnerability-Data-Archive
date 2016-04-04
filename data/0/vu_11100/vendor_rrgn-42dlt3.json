@@ -1,0 +1,14 @@
+{
+  "Status": "Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "SGI", 
+  "DateResponded": "", 
+  "DateLastUpdated": "1998-11-19T11:02:00-05:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "RRGN-42DLT3", 
+  "Addendum": "", 
+  "VendorInformation": "", 
+  "VendorStatement": "", 
+  "ID": "VU#11100", 
+  "Revision": "1"
+}

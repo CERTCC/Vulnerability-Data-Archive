@@ -1,0 +1,14 @@
+{
+  "Status": "Unknown", 
+  "VendorReferences": "", 
+  "Vendor": "Sun Microsystems, Inc.", 
+  "DateResponded": "", 
+  "DateLastUpdated": "1998-06-23T09:38:00-04:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "JRRR-3VQHZF", 
+  "Addendum": "The CERT/CC has no additional comments at this time.", 
+  "VendorInformation": "We are not aware of further vendor information regarding this vulnerability.", 
+  "VendorStatement": "No statement is currently available from the vendor regarding this vulnerability.", 
+  "ID": "VU#8001", 
+  "Revision": "1"
+}

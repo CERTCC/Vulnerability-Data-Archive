@@ -1,0 +1,14 @@
+{
+  "Status": "Vulnerable", 
+  "VendorReferences": "", 
+  "Vendor": "Motorola", 
+  "DateResponded": "", 
+  "DateLastUpdated": "1998-06-22T16:15:00-04:00", 
+  "DateNotified": "", 
+  "VendorRecordID": "JRRR-3VPRRV", 
+  "Addendum": "The CERT/CC has no additional comments at this time.", 
+  "VendorInformation": "We are not aware of further vendor information regarding this vulnerability.", 
+  "VendorStatement": "No statement is currently available from the vendor regarding this vulnerability.", 
+  "ID": "VU#5400", 
+  "Revision": "1"
+}
